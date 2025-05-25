@@ -11,5 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ginoventa&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ginoventa&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoventa&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
