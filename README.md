@@ -5,4 +5,4 @@
 - 🎨 In my profile you will encounter many personal projects, used by me to learn and gain proficiency in new programming languages, and also college projects. 
 - 💭 Currently learning: JavaScript, React and MongoDB. 
 
-[![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginoventa)](https://github.com/ginoventa/github-readme-stats)
+![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginoventa&show_icons=true&theme=tokyonight)
