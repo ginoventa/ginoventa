@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 📍 Currently based in São Carlos, Brazil.<br>🏫 Studying Computer Science in University Of São Paulo in São Carlos.<br>🎨 In my profile you will encounter many personal projects, used by me to learn and gain proficiency in new programming languages, and also college projects.<br>💭 Currently learning: JavaScript, React and MongoDB.
 
 
